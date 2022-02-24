@@ -24,7 +24,7 @@ from data import data_util
 import numpy as np
 import tensorflow as tf
 
-CIFAR_DIR = os.path.join(os.getenv('ML_DATA'), 'cifar')
+#CIFAR_DIR = os.path.join(os.getenv('ML_DATA'), 'cifar')
 CIFAR_LT_DIR = os.path.join(os.getenv('ML_DATA'), 'cifar-lt')
 CIFAR_DARP_DIR = os.path.join(os.getenv('ML_DATA'), 'cifar-darp')
 
